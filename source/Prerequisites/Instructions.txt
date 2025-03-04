@@ -1,0 +1,17 @@
+For this assignment, I used MySQL and PyCharm to write and execute scripts.
+
+MySQL workbench download instructions:
+1. To download MySQL Workbench, go to the official MySQL website, "https://dev.mysql.com/downloads/workbench/" 
+2. Navigate to the "Downloads" section
+3. Select "MySQL Community (GPL) Downloads"
+4. Choose "MySQL Installer for Windows" (or the appropriate option for your operating system) to download the installer file
+5. You can then run the installer to install MySQL Workbench on your system
+
+PyCharm download instructions: 
+
+1. Go to the official JetBrains PyCharm download page, "https://www.jetbrains.com/pycharm/download/"
+2. Choose your operating system (Windows, macOS, or Linux).
+3. Select the Community Edition (free) or Professional Edition (paid with extra features).
+4. Click the Download button.
+
+You can download the data files provided for the assessment from "TestData" Folder to your local machine.
