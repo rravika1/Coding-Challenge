@@ -1,0 +1,5 @@
+Please refer to "Data_Quality_Issues_report.pdf" for a detailed analysis of the data quality issues.
+
+Additionally, you can find the Python script "Data_Quality_Checks.py", which was used to perform the quality checks.
+Please provide your MySQL username and Password on line 6 and 7 respectively in the script.
+

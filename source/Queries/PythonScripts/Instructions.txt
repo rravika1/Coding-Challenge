@@ -1,0 +1,10 @@
+1. In Users Script, line 25 replace the path where you have downloaded the test data files.
+   Replace your username and password with MySQL credentials on line 7 and 8.
+
+2. In Receipts Script, line 53 replace the path where you have downloaded the test data files.
+   Replace your username and password with MySQL credentials on line 9 and 10.
+
+3. In Brands Script, line 25 replace the path where you have downloaded the test data files.
+   Replace your username and password with MySQL credentials on line 6 and 7.
+
+Note: We can run the above scripts in PyCharm which we downloaded as part of prerequisite.

@@ -1,0 +1,11 @@
+1. Based on the newly structured relational data model(which can be referred from the ER Diagram), I used Python for data cleaning and utilized mysql.connector to load the cleaned data into MySQL.
+
+2. Please find the Python scripts in the folder named 'PythonScripts' used for data cleaning and loading.
+
+3. We can open the SQL query files with note pad or note pad ++ or MySQL Workbench to review.
+
+4. To execute the SQL Queries, we can execute using MySQL Workbench where the data is loaded.
+
+5. We can also connect to MySQL via Command Prompt using "MySQL -u username -p password". 
+   Replace your username and password in the above command.
+
